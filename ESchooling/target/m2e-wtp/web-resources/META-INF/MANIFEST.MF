@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ESchooling
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Isaac
+Implementation-Vendor-Id: com.bu.eschooling
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/spring-jpa-m
+ ysql-angularjs/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
